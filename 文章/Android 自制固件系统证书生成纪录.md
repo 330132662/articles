@@ -43,8 +43,6 @@ centos [安装Java]([CentOS 7 安装 JAVA环境（JDK 1.8） - 晓晨Master - �
 
 
 
-
-
-
+· 安装centos 之后发现无法上网，原因是有个服务没启动，[解决方案]([VMware15(win10)环境安装CENTOS8不能上网解决办法_tswang6503的博客-CSDN博客](https://blog.csdn.net/tswang6503/article/details/112729160))
 
 · 关于安装filezilla，原本我是想在这个虚拟的centos安装[宝塔运维](宝塔服务器面板，一键全能部署及管理，送你3188元礼包，点我领取https://www.bt.cn/?invite_code=MV9lanhpemE=)的，我装的时候遇到了报错，跟前几天部署一台华为云的centos8的宝塔报错一样，华为云的技术说想装宝塔最好用他们的centos7，我一合计，也别再重新安装一个centos7虚拟机了，我只是想传个文件，还是用ftp吧，哈哈。
