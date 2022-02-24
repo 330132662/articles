@@ -2,7 +2,7 @@
 
 梯子使用指南   如何翻墙  梯子用不了了怎么办  
 
-* 下载 https://wwe.lanzoui.com/ia9vAwchrpi   
+* 下载 https://1drv.ms/u/s!AhWjF64qCJJtkl7oiykmC35_alRu?e=GPIS3z   
 
 * 解压压缩包 ：![image](https://user-images.githubusercontent.com/16251288/141039187-40bef920-61de-4d69-909e-cb1eced56804.png)  
 
