@@ -9,6 +9,9 @@
 视频教程 https://www.youtube.com/watch?v=_r9qTGoxefQ 
    教程内所需文件  https://www.mediafire.com/file/0vr7oscf111242i/FiddlerSetup.zip/file  ， https://www.i4.cn/  ，https://github.com/hhaverage/tiktok 
 
-  更多方案请到YouTube搜索：安卓tiktok不拔卡 
-  任一方案不一定适配每一部手机 。 
+  * 更多方案请到YouTube搜索：安卓tiktok不拔卡 
+  * 任一方案不一定适配每一部手机 。
+  * 国产品牌Android设备的国际版固件 配置VPN到美国 直接安装tiktok 可直接访问，无需安装助手 
+  * 大胆推测美版日版等iPhone可登录美区ID 直接下载
+  
    
