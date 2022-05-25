@@ -18,7 +18,8 @@
   
   2- 方法1找不到的话，全选当前所有连接，获取延迟，从延迟大于0毫秒的链接里挨个尝试
   
-  3-方法1和2都不行的话，只能疯狂找飞机场了
+  3-方法1和2都不行的话，只能疯狂找飞机场了  
+  4- https://github.com/Helpsoftware/fanqiang 
 
   ![](C:\Users\jeff\AppData\Roaming\marktext\images\2022-02-15-12-00-50-image.png)
 
