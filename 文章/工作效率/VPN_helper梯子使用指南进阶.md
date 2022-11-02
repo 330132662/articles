@@ -18,7 +18,7 @@
   
   2- 方法1找不到的话，全选当前所有连接，获取延迟，从延迟大于0毫秒的链接里挨个尝试
   
-  3-方法1和2都不行的话，只能疯狂找飞机场了  
+  3-方法1和2都不行的话，只能疯狂找飞机场了    稳定飞机场推荐 http://vnet.luo2888.cn/register?aff=2160 
   4- https://github.com/Helpsoftware/fanqiang 
 
   ![](C:\Users\jeff\AppData\Roaming\marktext\images\2022-02-15-12-00-50-image.png)
