@@ -20,16 +20,7 @@
 2、主界面用不到的权限   等到用的时候再去申请 ;每个权限点拒绝测试一下，避免出现重复申请被拒绝的权限的情况 ；  
 3、 vivo 可能需要V1签名，[方案](https://segmentfault.com/n/1330000041338709)  
 4、启动页加载完后显示“隐私政策页”，用户可以同意或不同意，这个弹框加载之前不能申请权限，甚至不可以进行sdk的初始化 ，这一点华为要求极为严格  
-5、
-
-
-
-
-
-
-
-
-
+5、查看gradle里 /Flutter工程的pubspec.yaml 里的三方依赖 ，涉及隐私敏感数据、用户信息 直接到隐私政策里写明用途、获取方式、使用范围 ；
 
 
 ### 附 上架被驳回的真实案例
@@ -45,3 +36,13 @@
 （隐私整改教程：https://wikinew.open.qq.com/index.html#/iwiki/4007776061）  
 【隐私检测问题】隐私政策内容缺少【获取Android_ID 】，请在隐私政策文本/URL进行补充。检测报告：https://app.open.qq.com/p/privacy/detail?appId=1112401008  
 （隐私整改教程：https://wikinew.open.qq.com/index.html#/iwiki/4007776062）
+#### flutter 工程特定
+1- 您的应用存在隐藏最近任务列表名称的行为，不符合华为应用市场《审核指南》第2.19项。  解决方案：创建项目时，MaterialApp-title 属性写app名称
+```
+GetMaterialApp(
+          title: MyString.app_name,// 一定调用统一名称 
+          theme: currentTheme,
+          home: MainPage(),
+          builder: (context, child) {}
+```
+
