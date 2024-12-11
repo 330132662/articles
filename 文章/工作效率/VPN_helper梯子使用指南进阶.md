@@ -1,6 +1,6 @@
 # VPN_helper
 
-梯子使用指南   如何翻墙  梯子用不了了怎么办  
+梯子使用指南   如何翻墙  梯子用不了了怎么办  1
 
 * 下载 https://1drv.ms/u/s!AhWjF64qCJJtkl7oiykmC35_alRu?e=GPIS3z   
 
