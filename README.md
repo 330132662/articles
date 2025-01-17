@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 [点击这里了解我为您精心挑选的流量卡](https://172.lot-ml.com/ProductEn/Index/ee934809c2efd89b)  
-[点击这里或扫描下方二维码成为流量卡合伙人](https://haoka.lot-ml.com/plugreg.html?agentid=60626)
-<div> <img src="http://qiniu2.appppa.cn/zblog/ka/2025/01/202501136304_1064.jpg" style="width: 200px;height: 300px" alt="1"/> <img src="http://qiniu.appppa.cn/zblog/52car/2025/01/202501171593_5893.jpg" style="width: 200px;height: 300px" alt="2"/>  </div> 
+[点击这里成为流量卡合伙人](https://haoka.lot-ml.com/plugreg.html?agentid=60626)
+
 
 
 
